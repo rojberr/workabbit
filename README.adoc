@@ -1,0 +1,39 @@
+= workabbit
+
+image::robot-rabbit.png[workabbit]
+
+[IMPORTANT]
+====
+Replace this text with a brief description of your project.
+====
+
+:icons: font
+
+== Table of Contents
+
+- link:#[Project Name]
+- link:#Getting-Started[Getting Started]
+- link:#Usage[Usage]
+- link:#Features[Features]
+- link:#Contributing[Contributing]
+- link:#License[License]
+
+== Getting Started
+
+To spin up the workabbit use:
+[source,bash]
+----
+docker-compose up
+----
+
+And then go to localhost with your browser.
+
+=== Prerequisites
+
+[List any prerequisites or dependencies required to use your project.]
+
+=== Installation
+
+1. [Download](#) or clone the repository.
+2. Run the following commands:
+
